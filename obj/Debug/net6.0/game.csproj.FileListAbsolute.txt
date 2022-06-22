@@ -1,0 +1,15 @@
+C:\Users\eduar\Projects\Console\game\bin\Debug\net6.0\game.exe
+C:\Users\eduar\Projects\Console\game\bin\Debug\net6.0\game.deps.json
+C:\Users\eduar\Projects\Console\game\bin\Debug\net6.0\game.runtimeconfig.json
+C:\Users\eduar\Projects\Console\game\bin\Debug\net6.0\game.dll
+C:\Users\eduar\Projects\Console\game\bin\Debug\net6.0\game.pdb
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\game.csproj.AssemblyReference.cache
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\game.AssemblyInfoInputs.cache
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\game.AssemblyInfo.cs
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\game.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\game.dll
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\refint\game.dll
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\game.pdb
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\game.genruntimeconfig.cache
+C:\Users\eduar\Projects\Console\game\obj\Debug\net6.0\ref\game.dll

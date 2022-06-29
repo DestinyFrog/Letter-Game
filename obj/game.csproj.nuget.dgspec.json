@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\Projects\\Console\\game\\game.csproj": {}
+    "C:\\Users\\eduar\\Projetos\\Console\\game\\game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\Projects\\Console\\game\\game.csproj": {
+    "C:\\Users\\eduar\\Projetos\\Console\\game\\game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\Projects\\Console\\game\\game.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Projetos\\Console\\game\\game.csproj",
         "projectName": "game",
-        "projectPath": "C:\\Users\\eduar\\Projects\\Console\\game\\game.csproj",
+        "projectPath": "C:\\Users\\eduar\\Projetos\\Console\\game\\game.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\Projects\\Console\\game\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\Projetos\\Console\\game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config"
